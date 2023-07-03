@@ -37,7 +37,7 @@
       "System.Runtime.wasm": "sha256-hD+2pliv3QKFiM\/cGvAPqNJEhG3j92Y\/8EPp6XoccwY=",
       "System.Text.Encodings.Web.wasm": "sha256-GZ0BEUBWgpIM2cAajrjqh8f+S6wIigfkkb0jrWMd510=",
       "System.Text.Json.wasm": "sha256-ICpJI0syqK2Na1W2li\/mgXgBWoev1ixb13oUdRXIyNw=",
-      "wasmDemo.wasm": "sha256-ftF04wQ0PICmZJU2jejQly0DEFsCC8HTIubD3q0krio="
+      "wasmDemo.wasm": "sha256-4XSOPO+rNPE5Dw5TPGXOGQHPAFQ+eqmEhGeApyMD5lE="
     },
     "extensions": null,
     "lazyAssembly": null,
