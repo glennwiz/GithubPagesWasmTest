@@ -27,7 +27,7 @@ jobs:
     - name: Build
       run: dotnet build --no-restore
     - name: Publish .NET Core Project
-      run: dotnet publish GithubPagesWasmTest.csproj -c Release -o release --nologo
+      run: dotnet publish wasmDemo.csproj -c Release -o release --nologo
     # changes the base-tag in index.html from '/' to 'BlazorGitHubPages' to match GitHub Pages repository subdirectory
     - name: Change base-tag in index.html from / to GithubPagesWasmTest
       run: sed -i 's/<base href="\/" \/>/<base href="\/GithubPagesWasmTest\/" \/>/g' release/wwwroot/index.html
